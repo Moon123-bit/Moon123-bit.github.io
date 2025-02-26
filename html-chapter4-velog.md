@@ -1,9 +1,3 @@
-# HTML Chapter 4 - CSS 기초 총정리
-
-이번에는 HTML Chapter 4에서 배운 CSS(Cascading Style Sheets)의 기본 개념과 활용법에 대해 정리해보려고 한다. HTML이 웹 페이지의 구조와 내용을 담당한다면, CSS는 웹 페이지의 시각적 표현과 레이아웃을 담당한다.
-
-## 1. CSS의 개념
-
 ### CSS의 필요성
 
 CSS가 없다면 웹 페이지는 단순한 텍스트와 기본 구조만 가지게 된다. CSS를 사용하면 다음과 같은 이점이 있다:
